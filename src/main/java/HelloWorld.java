@@ -5,4 +5,7 @@ public class HelloWorld {
     public static void main(String[] args) {
         System.out.println("Hi~~Dr.Ahn");
     }
+    public static void add(String[] args) {
+        System.out.println("Hello KTDS");
+    }
 }
